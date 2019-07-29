@@ -1,0 +1,38 @@
+.mynav{
+  /* background-color:#ffffff !important;	*/
+}
+/*
+.mynav .navbar-brand{
+	color:#ecf0f1;
+}
+.mynav .navbar-brand:hover{
+	color:#ffbbbc;
+}
+.mynav .nav-link{
+	color: #ecf0f1;
+    padding-left: 0.5rem;
+}
+.mynav .nav-link:hover{
+	color:#ffbbbc;
+}
+.mynav .dropdown-menu{
+	background-color:
+}
+.mynav .active{
+	background-color:#c0192b;
+}
+.mynav .navbar-toggler-icon{
+	background-image: url("menu.svg");
+}
+*/
+
+.rounded-btn {
+	border-radius: 25px;
+}	
+
+#footer{
+	background:#333333;
+	color:#ffffff;
+	text-align:center;
+	padding:30px;
+}
